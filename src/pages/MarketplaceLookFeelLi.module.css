@@ -1,0 +1,1410 @@
+.bg {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 2px 6px rgba(10, 26, 39, 0.14);
+}
+.privateEquity {
+  position: absolute;
+  top: calc(50% - 8.33px);
+  left: calc(50% - 274.95px);
+  letter-spacing: 1.4px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+  text-align: left;
+}
+.consumerGoodsRetailEnhancem {
+  position: absolute;
+  bottom: 8.66px;
+  left: 138px;
+  font-size: var(--font-size-lg);
+  line-height: 24px;
+  display: inline-block;
+  text-align: left;
+  width: 246px;
+}
+.b,
+.b1,
+.quarterly {
+  position: absolute;
+  top: calc(50% - 8.33px);
+  left: calc(50% - 73.57px);
+  display: inline-block;
+  width: 86px;
+}
+.b1,
+.quarterly {
+  left: calc(50% + 88.13px);
+  width: 92px;
+}
+.quarterly {
+  left: calc(50% + 247.98px);
+  width: 84px;
+}
+.favoriteButtonIcon,
+.maskGroup11 {
+  position: absolute;
+  top: 11.57px;
+  left: 252px;
+  width: 18px;
+  height: 15.33px;
+}
+.maskGroup11 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.maskGroup11Wrapper {
+  position: absolute;
+  height: calc(100% - 16.93px);
+  top: 8.47px;
+  bottom: 8.47px;
+  left: 9.31px;
+  background-color: var(--color-gray-200);
+  width: 110.83px;
+  mix-blend-mode: multiply;
+}
+.labelcontent {
+  position: absolute;
+  top: calc(50% - 5.5px);
+  left: calc(50% - 26px);
+}
+.label {
+  position: absolute;
+  top: 8.67px;
+  left: 138px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-royalblue);
+  width: 103.38px;
+  height: 19.14px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-white);
+}
+.chevronRightFill0Wght400GrIcon {
+  position: absolute;
+  top: calc(50% - 13.47px);
+  right: 24.18px;
+  width: 15.35px;
+  height: 27.14px;
+}
+.addToCompare {
+  position: absolute;
+  top: 10.24px;
+  left: calc(50% - 414.63px);
+  width: 16px;
+  height: 16px;
+}
+.bgParent {
+  position: absolute;
+  top: 441px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+  cursor: pointer;
+}
+.pennRealEstate,
+.realEstate {
+  position: absolute;
+  text-align: left;
+}
+.realEstate {
+  top: calc(50% - 8.33px);
+  left: calc(50% - 275.35px);
+  letter-spacing: 1.4px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+}
+.pennRealEstate {
+  top: calc(50% - 11.33px);
+  left: 138px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 246px;
+}
+.b2 {
+  top: calc(50% - 8.33px);
+  left: calc(50% - 74.47px);
+  display: inline-block;
+  width: 86px;
+}
+.b2,
+.b3,
+.labelbg {
+  position: absolute;
+}
+.b3 {
+  top: calc(50% - 8.33px);
+  left: calc(50% + 87.59px);
+  display: inline-block;
+  width: 92px;
+}
+.labelbg {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-aliceblue);
+  width: 120.44px;
+  height: 18.89px;
+}
+.labelcontent1 {
+  position: absolute;
+  top: 4.11px;
+  left: 32.81px;
+}
+.updateFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 4.13px;
+  left: 16.56px;
+  width: 11.76px;
+  height: 11.81px;
+}
+.label1,
+.yearly {
+  position: absolute;
+}
+.label1 {
+  height: 22.32%;
+  width: 8.74%;
+  top: 8.08%;
+  right: 81.37%;
+  bottom: 69.61%;
+  left: 9.89%;
+  text-align: right;
+  font-size: var(--font-size-5xs);
+  color: var(--color-royalblue);
+}
+.yearly {
+  top: calc(50% - 8.33px);
+  left: calc(50% + 249.25px);
+  display: inline-block;
+  width: 82px;
+}
+.favoriteButtonIcon1 {
+  position: absolute;
+  top: 10.13px;
+  left: calc(50% - 420.55px);
+  width: 18px;
+  height: 15.33px;
+}
+.image,
+.maskGroup31 {
+  position: absolute;
+  height: calc(100% - 16.66px);
+  top: 8.34px;
+  bottom: 8.33px;
+  left: 9px;
+  width: 111px;
+}
+.maskGroup31 {
+  max-height: 100%;
+  object-fit: cover;
+}
+.image {
+  background-color: var(--color-deepskyblue);
+  mix-blend-mode: multiply;
+}
+.addToCompare1 {
+  position: absolute;
+  top: 8.47px;
+  left: calc(50% - 394.89px);
+  width: 16px;
+  height: 16px;
+}
+.bgGroup,
+.bgIcon {
+  position: absolute;
+  top: 545.66px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.bgIcon {
+  height: 121.26%;
+  width: 101.31%;
+  top: 0;
+  right: -1.31%;
+  bottom: -21.26%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.hedgeFund,
+.quarterly1 {
+  position: absolute;
+  top: calc(50% - 8.33px);
+}
+.hedgeFund {
+  left: calc(50% - 275.36px);
+  letter-spacing: 1.4px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+  text-align: left;
+}
+.quarterly1 {
+  left: calc(50% + 244.22px);
+  display: inline-block;
+  width: 92px;
+}
+.favoriteButtonIcon2 {
+  position: absolute;
+  top: 8.67px;
+  left: calc(50% - 422.31px);
+  width: 18px;
+  height: 15.33px;
+}
+.image1,
+.maskGroup28 {
+  position: absolute;
+  height: calc(100% - 16.66px);
+  top: 8.67px;
+  bottom: 7.99px;
+  left: 9px;
+  width: 111px;
+}
+.maskGroup28 {
+  max-height: 100%;
+  object-fit: cover;
+}
+.image1 {
+  background-color: var(--color-gray-200);
+  opacity: 0.39;
+  mix-blend-mode: multiply;
+}
+.addToCompare2 {
+  position: absolute;
+  top: 7.33px;
+  left: calc(50% - 396.65px);
+  width: 16px;
+  height: 16px;
+}
+.label2,
+.labelcontent2 {
+  position: absolute;
+  top: 4.11px;
+  left: 35.78px;
+}
+.label2 {
+  height: 22.32%;
+  width: 8.74%;
+  top: 7.32%;
+  right: 81.37%;
+  bottom: 70.37%;
+  left: 9.89%;
+  text-align: right;
+  font-size: var(--font-size-5xs);
+  color: var(--color-royalblue);
+}
+.bgContainer {
+  position: absolute;
+  top: 650.33px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.quarterly2,
+.ventureCapital {
+  position: absolute;
+  top: calc(50% - 8.33px);
+}
+.ventureCapital {
+  left: calc(50% - 275.54px);
+  letter-spacing: 1.4px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+  text-align: left;
+}
+.quarterly2 {
+  left: calc(50% + 251.26px);
+  display: inline-block;
+  width: 78px;
+}
+.labelcontent3 {
+  position: absolute;
+  top: calc(50% - 5.66px);
+  left: calc(50% - 19px);
+}
+.label3 {
+  position: absolute;
+  top: 8.47px;
+  left: 138px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-200);
+  width: 103.36px;
+  height: 19.14px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-white);
+}
+.favoriteButtonIcon3 {
+  position: absolute;
+  top: 8.67px;
+  left: 251px;
+  width: 18px;
+  height: 15.33px;
+}
+.addToCompare3 {
+  position: absolute;
+  top: 7.33px;
+  left: calc(50% - 415.61px);
+  width: 16px;
+  height: 16px;
+}
+.maskGroup23Wrapper {
+  position: absolute;
+  height: calc(100% - 16.66px);
+  top: 8.51px;
+  bottom: 8.15px;
+  left: 9px;
+  background-color: var(--color-deepskyblue);
+  width: 112px;
+  mix-blend-mode: multiply;
+}
+.groupDiv {
+  position: absolute;
+  top: 754.99px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.privateEquity1,
+.quarterly3 {
+  position: absolute;
+  top: calc(50% - 8.33px);
+}
+.privateEquity1 {
+  left: calc(50% - 275.46px);
+  letter-spacing: 1.4px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: var(--color-dimgray);
+  text-align: left;
+}
+.quarterly3 {
+  left: calc(50% + 247.24px);
+  display: inline-block;
+  width: 86px;
+}
+.favoriteButtonIcon4 {
+  position: absolute;
+  top: 12.67px;
+  left: 253px;
+  width: 18px;
+  height: 15.33px;
+}
+.addToCompare4 {
+  position: absolute;
+  top: 10.67px;
+  left: calc(50% - 413.64px);
+  width: 16px;
+  height: 16px;
+}
+.maskGroup34 {
+  height: calc(100% - 17.66px);
+  top: 8.85px;
+  bottom: 8.82px;
+  left: 9px;
+  max-height: 100%;
+  width: 111px;
+  object-fit: cover;
+}
+.image2,
+.label4,
+.maskGroup34 {
+  position: absolute;
+}
+.image2 {
+  height: calc(100% - 17.66px);
+  top: 8.85px;
+  bottom: 8.82px;
+  left: 9px;
+  background-color: var(--color-royalblue);
+  width: 111px;
+  opacity: 0.49;
+  mix-blend-mode: multiply;
+}
+.label4 {
+  top: 8.67px;
+  left: 138px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-200);
+  width: 103.36px;
+  height: 19.14px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-white);
+}
+.bgParent1 {
+  position: absolute;
+  top: 859.65px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.quarterly4 {
+  position: absolute;
+  top: calc(50% - 8.33px);
+  left: calc(50% + 242.21px);
+  display: inline-block;
+  width: 96px;
+}
+.favoriteButtonIcon5 {
+  position: absolute;
+  top: 11.41px;
+  left: 255px;
+  width: 18px;
+  height: 15.33px;
+}
+.addToCompare5 {
+  position: absolute;
+  top: 9.75px;
+  left: calc(50% - 411.67px);
+  width: 16px;
+  height: 16px;
+}
+.image3,
+.imageIcon,
+.label5 {
+  position: absolute;
+  top: 8.18px;
+}
+.imageIcon {
+  height: calc(100% - 16.66px);
+  bottom: 8.48px;
+  left: 9px;
+  max-height: 100%;
+  width: 111px;
+  object-fit: cover;
+}
+.image3,
+.label5 {
+  background-color: var(--color-gray-200);
+}
+.image3 {
+  height: calc(100% - 16.66px);
+  bottom: 8.48px;
+  left: 9px;
+  width: 111px;
+  opacity: 0.45;
+}
+.label5 {
+  left: 138px;
+  border-radius: var(--br-sm);
+  width: 103.36px;
+  height: 19.14px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-white);
+}
+.bgParent2 {
+  position: absolute;
+  top: 964.32px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.quarterly5 {
+  position: absolute;
+  top: calc(50% - 8.33px);
+  left: calc(50% + 243.22px);
+  display: inline-block;
+  width: 94px;
+}
+.favoriteButtonIcon6 {
+  position: absolute;
+  top: 10.24px;
+  left: 253.5px;
+  width: 18px;
+  height: 15.33px;
+}
+.addToCompare6 {
+  position: absolute;
+  top: 8.91px;
+  left: calc(50% - 413.15px);
+  width: 16px;
+  height: 16px;
+}
+.maskGroup26 {
+  height: 81.5%;
+  width: 7.99%;
+  top: 8.88%;
+  right: 91.39%;
+  bottom: 9.62%;
+  left: 0.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image4,
+.label6,
+.maskGroup26 {
+  position: absolute;
+}
+.image4 {
+  height: calc(100% - 15.66px);
+  top: 7.52px;
+  bottom: 8.14px;
+  left: 9px;
+  background-color: var(--color-royalblue);
+  width: 111px;
+  opacity: 0.59;
+  mix-blend-mode: multiply;
+}
+.label6 {
+  top: 7.34px;
+  left: 138px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-200);
+  width: 103.36px;
+  height: 19.14px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-white);
+}
+.bgParent3,
+.bgParent4,
+.bgParent5 {
+  position: absolute;
+  top: 1068.98px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.bgParent4,
+.bgParent5 {
+  top: 1173.64px;
+}
+.bgParent5 {
+  top: 1906.28px;
+}
+.bgParent6 {
+  top: 1278.3px;
+}
+.bgParent6,
+.bgParent7,
+.bgParent8 {
+  position: absolute;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.bgParent7 {
+  bottom: 315.39px;
+}
+.bgParent8 {
+  top: 1382.97px;
+}
+.chevronRightFill0Wght400GrIcon12 {
+  position: absolute;
+  top: calc(50% - 13.48px);
+  right: 24.18px;
+  width: 15.35px;
+  height: 27.14px;
+}
+.bgParent9 {
+  position: absolute;
+  bottom: 210.73px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.bgParent10,
+.bgParent11,
+.bgParent12,
+.bgParent13 {
+  position: absolute;
+  top: 1487.63px;
+  left: 142px;
+  width: 1378px;
+  height: 84.66px;
+}
+.bgParent11,
+.bgParent12,
+.bgParent13 {
+  top: 1592.29px;
+}
+.bgParent12,
+.bgParent13 {
+  top: 1696.96px;
+}
+.bgParent13 {
+  top: 1801.62px;
+}
+.buttonNormalChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.loadMore {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 51.5px);
+  letter-spacing: 1.4px;
+  line-height: 13px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.buttonNormal {
+  position: absolute;
+  bottom: 111px;
+  left: 739px;
+  width: 185px;
+  height: 48px;
+  color: var(--color-dimgray);
+}
+.filterMenuButtonChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+}
+.industry {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 14px;
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.iconMaterialArrowDropDown {
+  position: absolute;
+  top: calc(50% - 3.75px);
+  right: 15.11px;
+  width: 15px;
+  height: 7.5px;
+}
+.filterMenuButton {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  bottom: 12px;
+  left: calc(50% - 553px);
+  width: 145px;
+}
+.filterMenuButton1,
+.filterMenuButton2,
+.filterMenuButton3,
+.filterMenuButton4 {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  bottom: 12px;
+  left: calc(50% - 394px);
+  width: 140px;
+}
+.filterMenuButton2,
+.filterMenuButton3,
+.filterMenuButton4 {
+  left: calc(50% - 240px);
+}
+.filterMenuButton3,
+.filterMenuButton4 {
+  left: calc(50% - 86px);
+  width: 102px;
+}
+.filterMenuButton4 {
+  left: calc(50% + 30px);
+  width: 170px;
+}
+.sort {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: 18px;
+  letter-spacing: 1.4px;
+  font-weight: 500;
+}
+.groupIcon {
+  position: absolute;
+  top: 8.56px;
+  right: 13.85px;
+  width: 19.15px;
+  height: 18.88px;
+}
+.filterMenuButton5 {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  right: 142px;
+  bottom: 12px;
+  width: 95px;
+}
+.iconMaterialArrowDropDown5 {
+  position: absolute;
+  top: calc(50% - 3.75px);
+  right: 15.5px;
+  width: 15px;
+  height: 7.5px;
+}
+.filterMenuButton6 {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  bottom: 12px;
+  left: 100px;
+  width: 153px;
+}
+.listFill0Wght400Grad0Opsz4Icon {
+  position: absolute;
+  height: calc(100% - 25.36px);
+  width: calc(100% - 28.86px);
+  top: 12.68px;
+  right: 14.43px;
+  bottom: 12.68px;
+  left: 14.43px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.filterMenuButton7 {
+  position: absolute;
+  height: calc(100% - 24px);
+  top: 12px;
+  right: 80px;
+  bottom: 12px;
+  width: 48px;
+}
+.iconMaterialCompareArrows {
+  position: absolute;
+  height: calc(100% - 16.56px);
+  top: 8px;
+  right: 14px;
+  bottom: 8.56px;
+  max-height: 100%;
+  width: 27.77px;
+}
+.compareParent,
+.filterNavBar {
+  position: absolute;
+  background-color: var(--color-gainsboro);
+}
+.compareParent {
+  top: calc(50% - 18px);
+  left: calc(50% + 408px);
+  border-radius: var(--br-5xs);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 141px;
+  height: 36px;
+}
+.filterNavBar {
+  top: 70px;
+  left: 0;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  width: 1600px;
+  height: 60px;
+  text-align: left;
+  color: var(--color-royalblue);
+}
+.investmentMarketplace,
+.loremIpsumDolor {
+  position: absolute;
+  top: calc(50% - 38px);
+  left: 80px;
+}
+.loremIpsumDolor {
+  top: calc(50% + 35px);
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 538px;
+  height: 62px;
+}
+.investmentMarketplaceParent {
+  position: absolute;
+  height: calc(100% - 61px);
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 61px;
+  left: 0;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(10, 26, 39, 0.62),
+    #0a1a27
+  );
+}
+.n {
+  letter-spacing: -0.12px;
+}
+.v {
+  letter-spacing: -0.17px;
+}
+.t {
+  letter-spacing: -0.06px;
+}
+.f {
+  letter-spacing: -0.05px;
+}
+.investedInTheContainer {
+  position: absolute;
+  top: calc(50% - 7.5px);
+  left: calc(50% - 216.64px);
+  line-height: 14.64px;
+}
+.investedInThePlatformParent {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 27.5px);
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xs) 0 0 var(--br-5xs);
+  background-color: var(--color-gray-200);
+  height: 55px;
+}
+.t1 {
+  letter-spacing: -1.21px;
+}
+.v1 {
+  letter-spacing: -0.18px;
+}
+.totalDollarsReturnedContainer {
+  position: absolute;
+  top: calc(50% - 7.5px);
+  left: calc(50% - 218.82px);
+  line-height: 14.64px;
+}
+.totalDollarsReturnedToInveParent {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs) 0 0 var(--br-5xs);
+  background-color: var(--color-gray-200);
+  height: 55px;
+}
+.w {
+  letter-spacing: -0.11px;
+}
+.theWeightedAverageContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 14.64px;
+}
+.targetReturnForContainer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  line-height: 14.64px;
+}
+.theWeightedAverageAnnualizeParent {
+  position: absolute;
+  top: calc(50% - 14.5px);
+  left: calc(50% - 218.82px);
+  width: 197px;
+  height: 28.94px;
+}
+.div {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: 11.37px;
+  font-size: 19.91px;
+  line-height: 23.9px;
+  font-family: var(--font-cresta-bold);
+  color: var(--color-orange);
+}
+.groupContainer {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-5xs) 0 0 var(--br-5xs);
+  background-color: var(--color-gray-200);
+  height: 55px;
+}
+.groupParent {
+  position: absolute;
+  top: calc(50% - 85.5px);
+  right: 0;
+  width: 629px;
+  height: 181px;
+  font-size: var(--font-size-smi-2);
+  font-family: var(--font-cresta-regular);
+}
+.marketingFeature {
+  position: absolute;
+  top: 0;
+  left: 79px;
+  background-color: var(--color-aliceblue);
+  width: 1520px;
+  height: 391px;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.liquidity {
+  position: absolute;
+  top: 419px;
+  left: 1108px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+  width: 50px;
+}
+.targetReturn {
+  left: 753px;
+  width: 86px;
+}
+.investment,
+.minimum1,
+.targetReturn {
+  position: absolute;
+  top: 419px;
+  font-size: var(--font-size-3xs);
+  display: inline-block;
+}
+.investment {
+  left: 151px;
+  text-transform: uppercase;
+  text-align: left;
+  width: 86px;
+}
+.minimum1 {
+  left: 945px;
+  width: 48px;
+}
+.filterNavBarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+  width: 1520px;
+  height: 60px;
+}
+.filterMenuButton8 {
+  position: absolute;
+  top: 12px;
+  left: 181px;
+  width: 145px;
+  height: 36px;
+}
+.filterMenuButton10,
+.filterMenuButton9 {
+  position: absolute;
+  top: 12px;
+  left: 332px;
+  width: 140px;
+  height: 36px;
+}
+.filterMenuButton10 {
+  left: 478px;
+}
+.filterMenuButton11,
+.filterMenuButton12 {
+  position: absolute;
+  top: 12px;
+  left: 624px;
+  width: 102px;
+  height: 36px;
+}
+.filterMenuButton12 {
+  left: 732px;
+  width: 170px;
+}
+.filterMenuButton13 {
+  position: absolute;
+  top: 12px;
+  right: 142px;
+  width: 95px;
+  height: 36px;
+}
+.filterMenuButton14 {
+  position: absolute;
+  top: 12px;
+  left: 22px;
+  width: 153px;
+  height: 36px;
+}
+.compareButton,
+.filterMenuButton15 {
+  position: absolute;
+  top: 12px;
+  height: 36px;
+  cursor: pointer;
+}
+.filterMenuButton15 {
+  right: 80px;
+  width: 48px;
+}
+.compareButton {
+  left: 1128px;
+  width: 141px;
+}
+.filterNavBar1 {
+  position: absolute;
+  top: 330px;
+  left: 79px;
+  width: 1520px;
+  height: 60px;
+  text-align: left;
+  color: var(--color-royalblue);
+}
+.navbarbgIcon {
+  position: absolute;
+  height: calc(100% + 18px);
+  width: calc(100% + 18px);
+  top: 0;
+  right: -18px;
+  bottom: -18px;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.userMenuIcon {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 22px;
+  width: 62px;
+  height: 36px;
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 109.79px;
+}
+.v3 {
+  letter-spacing: -0.13px;
+}
+.alternativeInvestmentPlatforContainer {
+  position: absolute;
+  top: calc(50% - 9px);
+  right: -1px;
+  line-height: 12px;
+}
+.groupWrapper {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupParent1 {
+  position: absolute;
+  top: calc(50% - 19.7px);
+  left: 22px;
+  width: 261.22px;
+  height: 39.4px;
+}
+.search {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 64px);
+}
+.iconactionsearch24px {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: 8px;
+  width: 24px;
+  height: 24px;
+}
+.searchParent {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 102px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+  width: 220px;
+  height: 36px;
+  font-family: var(--font-cresta);
+}
+.navbarbgParent {
+  position: absolute;
+  top: 0;
+  left: 80px;
+  width: 1520px;
+  height: 70px;
+  text-align: left;
+  font-family: var(--font-cresta-medium);
+}
+.path428Icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 0.5px);
+  top: 0;
+  right: 0.5px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.leftNavButtonChild,
+.leftNavButtonInner {
+  position: absolute;
+  height: calc(100% - 12px);
+  top: 6px;
+  bottom: 6px;
+}
+.leftNavButtonChild {
+  left: 16px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 48px;
+}
+.leftNavButtonInner {
+  left: 0;
+  background-color: var(--color-deepskyblue);
+  width: 6px;
+}
+.storefrontFill1Wght400Grad0Icon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 28.83px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 22.33px;
+}
+.leftNavButton {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 143px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.notificationsFill0Wght400GrIcon {
+  position: absolute;
+  height: calc(100% - 40px);
+  top: 20px;
+  right: 32px;
+  bottom: 20px;
+  max-height: 100%;
+  width: 16px;
+  opacity: 0.5;
+}
+.ellipseIcon {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 2px);
+  width: 14px;
+  height: 14px;
+}
+.div1 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% + 2px);
+  letter-spacing: 0.8px;
+  font-weight: 500;
+}
+.leftNavButton1 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 203px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.iconAwesomeTasks {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.7px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton2 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 217px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.manageAccountsFill0Wght400Icon {
+  position: absolute;
+  right: 28.1px;
+  bottom: 20px;
+  width: 23.8px;
+  height: 20px;
+}
+.leftNavButton3 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 97px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.homeStorageFill0Wght400GraIcon {
+  position: absolute;
+  right: 30.16px;
+  bottom: 20px;
+  width: 19.69px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton4 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: calc(50% - 157px);
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.settingsFill0Wght400Grad0OIcon {
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 30.22px;
+  width: 19.56px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton5 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 92px;
+  left: 0;
+  height: 60px;
+}
+.logoutFill0Wght400Grad0OpsIcon {
+  position: absolute;
+  top: 20px;
+  right: 30.17px;
+  width: 19.67px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton6 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  right: 0.5px;
+  bottom: 32px;
+  left: 0;
+  height: 60px;
+}
+.homeFill0Wght300Grad0Opsz4Icon {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 9.05px);
+  width: 18.1px;
+  height: 20px;
+  opacity: 0.5;
+}
+.leftNavButton7 {
+  position: absolute;
+  width: calc(100% - 0.5px);
+  top: 83px;
+  right: 0.5px;
+  left: 0;
+  height: 60px;
+}
+.leftNavClosedChild {
+  position: absolute;
+  top: 798.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 81px;
+  height: 2px;
+}
+.closedMenuIconChild {
+  top: 0;
+  width: 22px;
+}
+.closedMenuIconChild,
+.closedMenuIconInner,
+.closedMenuIconItem {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-white);
+  height: 2.5px;
+}
+.closedMenuIconItem {
+  bottom: 0;
+  width: 22px;
+}
+.closedMenuIconInner {
+  top: calc(50% - 1.25px);
+  width: 17px;
+}
+.chevronRightFill0Wght400GrIcon17 {
+  position: absolute;
+  height: 73.95%;
+  width: 28.07%;
+  top: 13.55%;
+  right: 0;
+  bottom: 12.5%;
+  left: 71.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.closedMenuIcon {
+  position: absolute;
+  top: 25px;
+  left: 22.29px;
+  width: 29.81px;
+  height: 20px;
+  opacity: 0.5;
+}
+.navDrawerLeft {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80.5px;
+  height: 960px;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-azo-sans);
+}
+.component2093 {
+  position: absolute;
+  top: 850px;
+  right: 36px;
+  width: 74px;
+  height: 74px;
+}
+.marketplaceLookFeelLi {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2411px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+  font-family: var(--font-cresta);
+}
